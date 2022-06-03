@@ -8,6 +8,9 @@
 - 💻 I also would like to collaborate on ARM-based software since I am interested in the new Apple Processors capabilities (M1, M1 Pro, and M1 MAX).
 - 📫 People can reach me by email: indigodavid@gmail.com.
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigodavid&show_icons=true&theme=ayu-mirage)](https://github.com/indigodavid/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indigodavid&theme=ayu-mirage&layout=compact)](https://github.com/indigodavid/github-readme-stats)
 <!---
 indigodavid/indigodavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
