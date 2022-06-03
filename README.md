@@ -1,5 +1,7 @@
-### 👋 Hi, I'm David Vera Castillo 
+![Banner](https://user-images.githubusercontent.com/97900045/171921909-a02cd173-5b92-4335-b560-b126261b00c9.png)
 
+
+### 👋 Hi, I'm David Vera Castillo 
 
 - 🧑🏻‍💻 I'm a Software Developer with a background in Electronics Engineering in Telecommunications. 
 - 🤔 I'm always eager to learn new technologies.
