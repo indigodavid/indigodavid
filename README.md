@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @indigodavid. I am changing my career to become a Software Developer. I learned basic programming on Java and C a few years ago, but I am catching up with the current technologies. I used to create websites on HTML5 and CSS3 as well.
-- 👀 I’m interested in coding Java and eventually learning MacOS coding, Obj-C, Swift, among others.
-- 🌱 I’m currently learning Java, Javascript, and modern programming skills.
-- 💞️ I’m looking to collaborate on any software as a Junior developer until I get more experience in the field. I also would like to collaborate on ARM-based software since I am interested in the new Apple Processors capabilities (M1, M1 Pro, and M1 MAX).
+### 👋 Hi, I'm David Vera Castillo 
+
+
+- 🧑🏻‍💻 I'm a Software Developer with a background in Electronics Engineering in Telecommunications. 
+- 🤔 I'm always eager to learn new technologies.
+- 👀 I’m know CSS, HTML, Javascript, Java, and a bit of C. I am learning React, Ruby, Swift, among other technologies.
+- 💞️ I’m looking to collaborate on different kinds of software projects to hone my problem solving skills. 
+- 💻 I also would like to collaborate on ARM-based software since I am interested in the new Apple Processors capabilities (M1, M1 Pro, and M1 MAX).
 - 📫 People can reach me by email: indigodavid@gmail.com.
 
 <!---
