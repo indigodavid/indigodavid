@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 I am a Full-Stack Developer with a background in Electronics Engineering in Telecommunications.
 - 🤔 I am always eager to learn new technologies.
-- 👀 I know CSS, HTML, JavaScript, Java, and a bit of C. I am learning React, Ruby, and Swift, among other technologies.
+- 👀 I have developed projects using React, Redux, Ruby on Rails. I enjoy developing solutions both in backend and frontend. Coding languages I know are JavaScript, Ruby, Java, and C.
 - 💞️ I am looking to collaborate on different kinds of software projects to hone my problem-solving skills. 
 - 💻 I also would like to collaborate on ARM-based software since I am interested in the new Apple Processors capabilities (M1, M1 Pro, and M1 MAX).
 - 📥 I am open to offers and looking for remote jobs.
