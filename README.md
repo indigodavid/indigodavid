@@ -28,7 +28,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indigodavid&theme=ayu-mirage&layout=compact)](https://github.com/indigodavid/github-readme-stats)
 
+## Currently working on
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=indigodavid&theme=ayu-mirage&repo=ezCar_frontend)](https://github.com/indigodavid/ezCar_frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=indigodavid&theme=ayu-mirage&repo=ezCar_backend)](https://github.com/indigodavid/ezCar_backend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=indigodavid&theme=ayu-mirage&repo=next-portfolio)](https://github.com/indigodavid/next-portfolio)
 
 <!---
 indigodavid/indigodavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
