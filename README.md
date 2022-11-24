@@ -6,7 +6,7 @@
 - 🧑🏻‍💻 I am a Full-Stack Developer with a background in Electronics Engineering in Telecommunications.
 - 🤔 I am always eager to learn new technologies.
 - 👀 I have developed projects using React, Redux, Ruby on Rails. I enjoy developing solutions both in backend and frontend.
-- 💞️ I am looking to collaborate on different kinds of software projects related to education, gaming or projects that improve quality of life. 
+- 🤝 I am looking to collaborate on different kinds of software projects related to education, gaming or projects that improve quality of life. 
 - 💻 I also would like to collaborate on ARM-based software since I am interested in the new Apple Processors capabilities.
 - 📥 I am open to offers and looking for remote jobs.
 - 📫 People can reach me by email: indigodavid@gmail.com.
@@ -27,6 +27,7 @@
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigodavid&show_icons=true&theme=ayu-mirage)](https://github.com/indigodavid/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indigodavid&theme=ayu-mirage&layout=compact)](https://github.com/indigodavid/github-readme-stats)
+
 
 
 <!---
