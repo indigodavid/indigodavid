@@ -9,7 +9,7 @@
 - 🤝 I am looking to collaborate on different kinds of software projects related to education, gaming or projects that improve quality of life. 
 - 💻 I also would like to collaborate on ARM-based software since I am interested in the new Apple Processors capabilities.
 - 📥 I am open to offers and looking for remote jobs.
-- 📫 People can reach me by email: indigodavid@gmail.com.
+- 📫 People can reach me by email: david.verac@hotmail.com.
 
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=a6db5c)
