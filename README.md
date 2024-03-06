@@ -11,17 +11,18 @@
 - 📥 I am open to offers and looking for remote jobs.
 - 📫 People can reach me by email: david.verac@hotmail.com.
 
-![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=a6db5c)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=a6db5c)
+![](https://img.shields.io/badge/Framework-Ruby_on_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=a6db5c)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&logoColor=white&color=a6db5c)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=a6db5c)
-![](https://img.shields.io/badge/Framework-Ruby_on_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=a6db5c)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Tools-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=a6db5c)
 ![](https://img.shields.io/badge/Tools-SASS-informational?style=flat&logo=sass&logoColor=white&color=a6db5c)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=a6db5c)
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=a6db5c)
 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigodavid&show_icons=true&theme=ayu-mirage)](https://github.com/indigodavid/github-readme-stats)
