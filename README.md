@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Ruby on Rails Specialist | Building Scalable Solutions with Impact**
 
-I'm a passionate developer with since 2022 architecting and delivering full-stack applications. I specialize in **Ruby on Rails** and **React**, with a focus on creating robust backend systems that solve real business problems. My background in Electronics Engineering gives me a unique problem-solving approach to software development.
+I'm a passionate developer, architecting and delivering full-stack applications since 2022. I specialize in **Ruby on Rails** and **React**, with a focus on creating robust backend systems that solve real business problems. My background in Electronics Engineering gives me a unique problem-solving approach to software development.
 
 ## 🚀 What I Bring
 
